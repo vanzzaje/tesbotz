@@ -1,9 +1,9 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6285882955428'] 
+global.owner = ['6285602507394'] 
 global.mods = ['6285602507394'] 
-global.prems = ['628978516215'] 
+global.prems = ['6285602507394'] 
 
 //『 Info Owner 』 //
 global.nameowner = '⫹⫺ VanZz'
