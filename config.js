@@ -2,8 +2,8 @@
 
 //『 Utama 』 //
 global.owner = ['6285882955428'] 
-global.mods = ['6285882955428'] 
-global.prems = ['6285882955428'] 
+global.mods = ['6285602507394'] 
+global.prems = ['628978516215'] 
 
 //『 Info Owner 』 //
 global.nameowner = '⫹⫺ VanZz'
